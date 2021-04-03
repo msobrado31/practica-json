@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercado nombre="bm">
+    <direccion> Plaza Celestino María del Arenal 1</direccion>
+    <localidad>Bilbao</localidad>
+    <geolocalizacion>
+        <latitud>43.27724</latitud>
+        <longitud>-2.95674</longitud>
+    </geolocalizacion>
+    <secciones>
+        <fruteria>
+            <producto>
+                <nombre>tomate de ensalada</nombre>
+                <unidad>kilo</unidad>
+                <precio>2.45</precio>
+                <adquirido>true</adquirido>
+                <cantidad>0.50</cantidad>
+                <oferta>
+                    <descuento>false</descuento>
+                    <precio>null</precio>
+                    <cantidad>null</cantidad>
+                    <fecha>
+                        <inicio>null</inicio>
+                        <fin>null</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>naranja navel</nombre>
+                <unidad>kilo</unidad>
+                <precio>1.85</precio>
+                <adquirido>true</adquirido>
+                <cantidad>3</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>1.50</precio>
+                    <cantidad>3</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>lechuga</nombre>
+                <unidad>unidad</unidad>
+                <precio>0.95</precio>
+                <adquirido>true</adquirido>
+                <cantidad>2</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>0.60</precio>
+                    <cantidad>2</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+        </fruteria>
+        <lacteos>
+            <producto>
+                <nombre>leche semidesnatada Bizkaia</nombre>
+                <unidad>carton</unidad>
+                <precio>0.89</precio>
+                <adquirido>true</adquirido>
+                <cantidad>6</cantidad>
+                <oferta>
+                    <descuento>false</descuento>
+                    <precio>null</precio>
+                    <cantidad>null</cantidad>
+                    <fecha>
+                        <inicio>null</inicio>
+                        <fin>null</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>yogurt activia natural azucarado</nombre>
+                <unidad>pack 8 unidades</unidad>
+                <precio>3.09</precio>
+                <adquirido>true</adquirido>
+                <cantidad>2</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>2.10</precio>
+                    <cantidad>2</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>queso lonchas la vaca que rie</nombre>
+                <unidad>pack de 14 unidades</unidad>
+                <precio>1.95</precio>
+                <adquirido>true</adquirido>
+                <cantidad>2</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>1.50</precio>
+                    <cantidad>2</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>margarina artua</nombre>
+                <unidad>unidad</unidad>
+                <precio>2.35</precio>
+                <adquirido>false</adquirido>
+                <cantidad>0</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>2.15</precio>
+                    <cantidad>1</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+        </lacteos> 
+        <despensa>
+            <producto>
+                <nombre>aceite virgen extra coosur</nombre>
+                <unidad>botella</unidad>
+                <precio>4.99</precio>
+                <adquirido>true</adquirido>
+                <cantidad>4</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>3.24</precio>
+                    <cantidad>2</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>aceitunas rellenas serpis</nombre>
+                <unidad>lata</unidad>
+                <precio>1.44</precio>
+                <adquirido>true</adquirido>
+                <cantidad>2</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>1.10</precio>
+                    <cantidad>2</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>bonito en aceite consorcio</nombre>
+                <unidad>bote</unidad>
+                <precio>5.42</precio>
+                <adquirido>false</adquirido>
+                <cantidad>0</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>5.10</precio>
+                    <cantidad>1</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>pajaritas gallo</nombre>
+                <unidad>paquete</unidad>
+                <precio>1.45</precio>
+                <adquirido>false</adquirido>
+                <cantidad>0</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>1.15</precio>
+                    <cantidad>2</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>arroz bomba</nombre>
+                <unidad>paquete</unidad>
+                <precio>2.45</precio>
+                <adquirido>false</adquirido>
+                <cantidad>0</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>2.15</precio>
+                    <cantidad>1</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+        </despensa>  
+        <embutidos>
+            <producto>
+                <nombre>jamon cocido campofrio</nombre>
+                <unidad>kilo</unidad>
+                <precio>10.45</precio>
+                <adquirido>false</adquirido>
+                <cantidad>0</cantidad>
+                <oferta>
+                    <descuento>false</descuento>
+                    <precio>null</precio>
+                    <cantidad>null</cantidad>
+                    <fecha>
+                        <inicio>null</inicio>
+                        <fin>null</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>chorizo pamplona alejandro</nombre>
+                <unidad>kilo</unidad>
+                <precio>15.85</precio>
+                <adquirido>false</adquirido>
+                <cantidad>0</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>14.25</precio>
+                    <cantidad>null</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+            <producto>
+                <nombre>chorizo palacios</nombre>
+                <unidad>sarta</unidad>
+                <precio>2.99</precio>
+                <adquirido>true</adquirido>
+                <cantidad>2</cantidad>
+                <oferta>
+                    <descuento>true</descuento>
+                    <precio>1.95</precio>
+                    <cantidad>2</cantidad>
+                    <fecha>
+                        <inicio>24-3-2021</inicio>
+                        <fin>5-4-2021</fin>
+                    </fecha>
+                </oferta>
+            </producto>
+        </embutidos> 
+    </secciones>
+</supermercado>              
+                          
+                 
+              
+                    
+                      
+                  
+                      
+                   
+          
